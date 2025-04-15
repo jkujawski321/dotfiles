@@ -6,3 +6,4 @@ vim.cmd("set shiftwidth=2")
 vim.g.mapleader = " "
 vim.keymap.set('n', '<leader>h', ':nohlsearch<CR>')
 vim.opt.relativenumber = true
+vim.opt.number = true
